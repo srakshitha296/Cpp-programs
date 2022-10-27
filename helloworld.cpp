@@ -1,8 +1,7 @@
 #include<iostream>
 #include<conio.h>
-#include<stdio.h>
-void main()
+int main()
 {
-    printf("Helloworld!");
+   std:: cout<<"Hello World!";
 getch();
 };
