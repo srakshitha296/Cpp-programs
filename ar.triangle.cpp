@@ -1,4 +1,4 @@
-// Program to find the area of  atriangle given 3 sides.
+// Program to find the area of  a triangle given 3 sides.
 
 #include<iostream>
 #include<math.h>
