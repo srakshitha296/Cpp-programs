@@ -1,16 +1,17 @@
-#include <stdio.h>
+#include <iostream>
+using namespace std;
 
 int main()
 {
   int i,j,n;
-  printf("Enter the value of N\n");
-  scanf("%d",&n);
+ cout<<"Enter the value of N\n";
+  cin>>n;
   for(i=1;i<=n;i++)
     {
-      printf("\n");
+      cout<<"\n";
       for(j=1;j<=i;j++)
         {
-          printf("*");
+          cout<<"*";
         }
     }
 }
