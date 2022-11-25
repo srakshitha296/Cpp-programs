@@ -9,3 +9,5 @@ Program to calculate the average of N numbers.
 Program to compute the discount
 
 Program to compute the fibonacci series.
+
+Program to find the greatest number among 4 number.
