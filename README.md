@@ -3,7 +3,7 @@
 ### ar.circle.cpp
 Program to calculate area of circle.
 
-###ar,triangle.cpp
+### ar.triangle.cpp
 Program to calculate area of a triangle.
 
 Program to calculate the average of N numbers.
