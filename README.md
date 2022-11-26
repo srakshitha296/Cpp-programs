@@ -11,3 +11,9 @@ Program to compute the discount
 Program to compute the fibonacci series.
 
 Program to find the greatest number among 4 number.
+
+### Letsmeasure:
+You are given two positive integers A and B.
+Print "First", if AB > BA.
+Print "Second", if AB < BA.
+Otherwise, print "Equal".
