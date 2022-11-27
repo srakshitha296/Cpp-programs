@@ -9,17 +9,47 @@ Program to calculate area of a triangle.
 ### average.cpp
 Program to calculate the average of N numbers.
 
-### shift.cpp
+### discount.cpp
 Program to compute the discount
+
+### employee.cpp
+
 
 ### fibonacci.cpp
 Program to compute the fibonacci series.
 
-### maxof4.cpp
-Program to find the greatest number among 4 number.
+### greatest_of_4.cpp
 
-### letsmeasure,cpp
+
+### helloworld.cpp
+
+
+### leapyear.cpp
+
+
+### letsmeasure.cpp
 You are given two positive integers A and B.
 Print "First", if AB > BA.
 Print "Second", if AB < BA.
 Otherwise, print "Equal".
+
+
+### maxof4.cpp
+Program to find the greatest number among 4 number.
+
+### pattern1.cpp
+
+
+### stringswap.cpp
+
+
+### sum_diff_ptr.cpp
+
+
+### swap1.cpp
+
+
+### swap2.cpp
+
+
+
