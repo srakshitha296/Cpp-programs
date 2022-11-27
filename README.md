@@ -19,12 +19,15 @@ Program to compute the discount
 Program to compute the fibonacci series.
 
 ### greatest_of_4.cpp
+Program to find the largest among 4 numbers.
 
 
 ### helloworld.cpp
+It's a Hello World program:)
 
 
 ### leapyear.cpp
+Program to check whether entered year is leap year or not.
 
 
 ### letsmeasure.cpp
@@ -38,9 +41,13 @@ Otherwise, print "Equal".
 Program to find the greatest number among 4 number.
 
 ### pattern1.cpp
-
+Program displays  *
+                  **
+                  *** 
+                  ****  such pattern. 
 
 ### stringswap.cpp
+Program to swap a string.
 
 
 ### sum_diff_ptr.cpp
