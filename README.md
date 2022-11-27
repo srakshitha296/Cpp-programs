@@ -41,10 +41,14 @@ Otherwise, print "Equal".
 Program to find the greatest number among 4 number.
 
 ### pattern1.cpp
-Program displays  *
-                  **
-                  *** 
-                  ****  such pattern. 
+Program displays
+###  *         
+###  **
+###  *** 
+###  ****  such pattern. 
+
+
+
 
 ### stringswap.cpp
 Program to swap a string.
