@@ -3,6 +3,9 @@
 ###Inheritance
 Program Demonstrating Single level inheritance.
 
+### absolutedifference.cpp
+program calculates the absolute difference between a given number and 51. If the given number is greater than 51 it produces thrise the absolute difference of that number.
+
 ### ar.circle.cpp
 Program to calculate area of circle.
 
