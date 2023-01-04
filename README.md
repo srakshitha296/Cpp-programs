@@ -1,6 +1,6 @@
 # Cpp-programs
 
-###Inheritance
+### Inheritance
 Program Demonstrating Single level inheritance.
 
 ### absolutedifference.cpp
