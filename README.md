@@ -1,6 +1,9 @@
 # Cpp-programs
 
-###Inheritance
+### Area Calculator
+Program to calculate area of different shapes.
+
+### Inheritance
 Program Demonstrating Single level inheritance.
 
 ### absolutedifference.cpp
