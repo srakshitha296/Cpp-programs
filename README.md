@@ -62,6 +62,8 @@ Program displays
 ### stringswap.cpp
 Program to swap a string.
 
+### studentdetails.cpp
+
 
 ### sum_diff_ptr.cpp
 
