@@ -1,4 +1,4 @@
-##Countdown
+# Countdown
 
 Create a timer program that will take the number of seconds as input, and countdown to 0.
 Here is a sample output for the input 5:
