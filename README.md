@@ -47,14 +47,14 @@ Otherwise, print "Equal".
 
 
 ### maxof4.cpp
-Program to find the greatest number among 4 number.
+Program to find the greatest number among 4 numbers.
 
 ### pattern1.cpp
 Program displays
 ###  *         
 ###  **
 ###  *** 
-###  ****  such pattern. 
+###  ****  such pattern
 
 
 
